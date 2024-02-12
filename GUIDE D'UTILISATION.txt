@@ -1,0 +1,39 @@
+FICHIER RECAPITULATIF:
+
+
+DRIVE DU PROJET: https://drive.google.com/drive/folders/1srEEhDYeOntHIpnpQo4Pcd_csDzY6ODo
+
+DATA BASE = Base_prete.csv 
+
+KPI POWER BI = projet2BIfinal.pbix (à télécharger si volonté de l'ouvrir)
+
+Graphique Correlation = Corrélation Projet 2.pptx
+
+PowerPoint de présentation complète = Recommandations de films.pptx
+
+PowerPoint de démonstration 15min projet 2 = Demo Projet 2.pptx
+
+MACHINE LEARNING = dossier py  
+
+CODAGE COMPLET = codage_complet.py
+
+TRAVAIL SUR LA BASE DE DONNÉES  = codage_df_exploité.py
+
+
+
+PARTIE MISE EN PLACE DE L'APPLICATION :
+ 
+ Télécharger le dossier (Dossier Machine Learning)
+
+ Installer le sur votre PC
+
+ Aller dans l'Invitation de Commande (Win+r et rentrer "cmd")
+
+ entrer : pip install streamlit
+
+ entrer : run streamlit "chemin du fichier" exemple = ‪C:\Users\Users\Desktop\dossierprojet\projet.py
+
+ Vous aurez un onglet qui va s'ouvrir dans votre navigateur, ça sera l'application de recommandation
+ ouvert en local sur la plateforme streamlit.
+
+ Vous pouvez désormais profiter de l'application de recommandation de film la plus performante qui puisse être.
